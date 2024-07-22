@@ -11,7 +11,7 @@ Nedan hittas lösningar/write-ups till 17 utav 21 av de utmaningar som ingick i 
 
 I utmaningen får vi en png fil, malarboken.png.
 
-![Målarboken](../docs/assets/img/malarboken.png)
+![Målarboken](../../../assets/img/malarboken.png)
 test
 <img src="../docs/assets/img/malarboken.png" width="350" />
 
