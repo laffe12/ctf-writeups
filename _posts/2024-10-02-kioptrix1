@@ -1,0 +1,10 @@
+---
+title: Kioptrix1
+date: 2024-10-02
+---
+
+Starting by finding the vulnerable machine on the network.
+
+<code>
+nmap 192.168.0.1/24
+</code>
